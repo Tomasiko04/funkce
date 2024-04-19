@@ -1,5 +1,3 @@
-
-
 #01
 """
 def nejvetsi(x,y,z):
